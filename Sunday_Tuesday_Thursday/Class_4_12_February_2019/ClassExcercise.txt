@@ -1,13 +1,22 @@
-Identify the parts of speech in these sentences
+Identify the parts of speech in the following sentences
 
 1. The children sat there quitely.
 2. Did you go to school yesterday?
 3. Peter goes to the gym every day.
 4. Julia speaks English quite well.
+5. I am a student.
+6. My name is Julia.
 
 
+------------------------------------------------------------------------
+Identify Noun from the follwoing sentence.
+------------------------------------------------------------------------
+Hasan likes to go to the zoo and see the animals.
 
-
+------------------------------------------------------------------------
+Write the words in correct form
+------------------------------------------------------------------------
+My uncle is a Professor of Chinese at the university of edinburgh. Students call him professor jones but i call him uncle steven. He spent a long time in the east studying buddhism.
 
 
 
