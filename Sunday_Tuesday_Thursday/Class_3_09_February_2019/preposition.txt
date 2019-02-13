@@ -102,3 +102,17 @@ behind
 below
 inside 
 outside
+
+
+
+
+
+
+
+
+The rat got into the box.
+The bird ran away from the cat and escaped.
+The cat is moving around the box.
+The frog jumped over the box
+The snake goes through a tunnel.
+
