@@ -1,103 +1,207 @@
 ——————————————————————————————————————————————————————————————————————————————————————————
-Reading 
-———————————————————————————————————————————————————————————————————————————————————————————————————
-Task-1, Choose one word from the list for each gap. The first one is done for you.
-———————————————————————————————————————————————————————————————————————————————————————————————————
+Parts os speech
+——————————————————————————————————————————————————————————————————————————————————————————
 
-Dear Mum and Dad,
-
-Hello from sunny Brighton! Pete and I are here on holiday for two weeks and  a ———————— [having, taking] great time. 
-
-There’s a lot to do and eat here - the fish are ————————[well, great, usual]
-
-We went to see a film and ————————— [saved, liked, tried] some of the local food. 
-
-Pete hadn’t been feeling very well, so it’s been good for him to ———————— [take, give, go] a real break. 
-
-He wants to get some exercise ———————— [while, and, that] we’re on holiday. 
-
-As you ————————[hear, think, know], he loves quiet places and I hope it’s not too hot! 
-
-Love, 
-
-Helen 
+Do you want to come to the {{playground}} with us?
+A: Noun
+B: Verb
+C: Adjective
+D: Adverb
 
 
 
 
+Mandy was so happy she {{skipped}} down the street.
+A: Noun
+B: Verb
+C: Adjective
+D: Adverb
 
 
-Dear Mum and Dad,
-
-Hello from sunny Brighton! Pete and I are here on holiday for two weeks and  {{ having }}  a great time. 
-
-There’s a lot to do and eat here - the fish are {{great}} 
-
-We went to see a film and {{tried}} some of the local food. 
-
-Pete hadn’t been feeling very well, so it’s been good for him to {{ take }} a real break. 
-
-He wants to get some exercise {{while}} we’re on holiday. 
-
-As you  {{ know }},  he loves quiet places and I hope it’s not too hot! 
-
-Love, 
-
-Helen 
+We hung shiny {{decorations}} on our Christmas tree.
+A: Noun
+B: Verb
+C: Adjective
+D: Adverb
 
 
 
+Carlos can run {{faster}} than anyone in our school.
+A: Noun
+B: Verb
+C: Adjective
+D: Adverb
 
 
 
-———————————————————————————————————————————————————————————————————————————————————————————————————
-Task-2 Order the sentences below to make a story. The first one is done for you.
-———————————————————————————————————————————————————————————————————————————————————————————————————
-a) My First Day At Work
-
-b) My first day at work didn’t go according to plan.
-
-c) I arrived early to make a good impression, but when I got there the lift was out of order.
-
-d) While walking up them I fell over and hurt my knee.
-
-e) The office is on the 22nd floor but I decided to use the stairs.
-
-e) I didn’t even get to see my new desk before I left.
-
-f) My new boss told me to go to the hospital to make sure the problem wasn’t serious.
-
-g) By the time I got to the office I couldn’t walk anymore.
+Jalen's dad sings {{loudly}} in the shower.
+A: Noun
+B: Verb
+C: Adjective
+D: Adverb
 
 
 
+Alex {{choked}} on his food because he ate so fast.
+A: Noun
+B: Verb
+C: Adjective
+D: Adverb
 
 
 
-a) My First Day At Work
-c) I arrived early to make a good impression, but when I got there the lift was out of order.
-e) The office is on the 22nd floor but I decided to use the stairs.
-d) While walking up them I fell over and hurt my knee.
-g) By the time I got to the office I couldn’t walk anymore.
-e) I didn’t even get to see my new desk before I left.
-f) My new boss told me to go to the hospital to make sure the problem wasn’t serious.
-b) My first day at work didn’t go according to plan.
-
-———————————————————————————————————————————————————————————————————————————————————————————————————
-Task-3 Read the text and complete each gap with a word from the list at the bottom of the page.  
-———————————————————————————————————————————————————————————————————————————————————————————————————
-Galileo Galilei
+Did you finish your {{homework}} yet?
+A: Noun
+B: Verb
+C: Adjective
+D: Adverb
+ 
 
 
-[Various, Discoveries, taking, lot, around, during, lack, at, serving, experiemtnts]
 
-Often [referred] to as ‘the father of modern physics’, Galileo Galilei was born in Pisa, Italy, in 1564, the son of a mathematician and musician. He attended university in Pisa but had to leave due to a —————————  of funds, and later taught sciences at the University of Padua. It was ————————— his time there that Galileo did a large number of —————————, the most famous involving dropping balls of different sizes from ————————— heights to determine the law of acceleration of falling bodies. Indeed, he is credited with several important scientific —————————, and is still considered a great genius. Unfortunately, however, he died in prison in 1642, whilst ————————— a life sentence for publishing works suggesting that the earth moved ————————— the sun – something that went against accepted thinking at the time.
+Mom {{baked}} cookies for us.
+A: Noun
+B: Verb
+C: Adjective
+D: Adverb
+
+
+
+Grace wants to go shopping {{tomorrow}}.
+A: Noun
+B: Verb
+C: Adjective
+D: Adverb
+
+
+http://www.softschools.com/quizzes/grammar/parts_of_speech/quiz395.html
 
 
 
 
+1. I bought a {{beautiful}} dress at the mall.
+ preposition
+ adjective
+ noun
+2. What did she ask you to do?
 
-Often [referred] to as ‘the father of modern physics’, Galileo Galilei was born in Pisa, Italy, in 1564, the son of a mathematician and musician. He attended university in Pisa but had to leave due to a {{lack}}  of funds, and later taught sciences at the University of Padua. It was {{ during }} his time there that Galileo did a large number of {{ experiemtnts }}, the most famous involving dropping balls of different sizes from {{ Various }} heights to determine the law of acceleration of falling bodies. Indeed, he is credited with several important scientific {{ Discoveries }}, and is still considered a great genius. Unfortunately, however, he died in prison in 1642, whilst {{ at }} a life sentence for publishing works suggesting that the earth moved {{ around }} the sun – something that went against accepted thinking at the time.
+ conjunction
+ preposition
+ pronoun
+3. I left my shoes under the kitchen table.
+
+ adjective
+ preposition
+ pronoun
+4. If we finish our work quickly we can go to the movies.
+
+ adverb
+ conjunction
+ verb
+5. On Saturdays I work from nine to five.
+
+ verb
+ preposition
+ adverb
+6. I want to go to a university in the United States.
+
+ adjective
+ preposition
+ noun
+7. I'm sure I've met your girlfriend before.
+
+ verb
+ preposition
+ interjection
+8. Well, I don't think I'll be home before 6.
+
+ interjection
+ preposition
+ pronoun
+9. Andy knocked on the door but nobody answered.
+
+ adverb
+ adjective
+ conjunction
+10. After lunch let's go out for a coffee.
+
+ pronoun
+ preposition
+ verb
+
+
+
+——————————————————————————————————————————————————————————————————————————————————————————
+Answer
+——————————————————————————————————————————————————————————————————————————————————————————
+
+1. adjective
+2. pronoun
+3. preposition
+4. adverb
+5. verb
+6. noun
+7. verb
+8. interjection
+9. conjunction
+10. preposition
+
+
+
+
+——————————————————————————————————————————————————————————————————————————————————————————
+Tense
+——————————————————————————————————————————————————————————————————————————————————————————
+
+1. When I opened my eyes, I ………………. a strange sight.
+saw
+was seeing
+have seen
+2. Every morning she …………….. up early and gets ready for work.
+is waking
+wakes
+has woken
+3. If I knew what he wanted, I ………………. this.
+will not permit
+would not permit
+would not have permitted
+4. I ………………….. anything from her in a long time.
+didn't hear
+haven't heard
+am not hearing
+5. The headmaster ……………… to talk to you.
+want
+wants
+is wanting
+6. Jane ………………. with her parents.
+is living
+lives
+has lived
+7. We ..................... Greece next month.
+visit
+will visit
+would visit
+are visiting
+8. The moon …………….. around the earth.
+is revolving
+has revolved
+revolves
+9. She ………………… a novel.
+wrote
+writes
+has written
+10. All students ………………. in their work.
+handed
+have handed
+hand
+11. I …………………. English for twelve years.
+am teaching
+have been teaching
+will be teaching
+12. The students ............................. their dialogues.
+rehearse
+are rehearsing
+Either could be used here
 
 
 
@@ -105,3 +209,44 @@ Often [referred] to as ‘the father of modern physics’, Galileo Galilei was b
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. When I opened my eyes, I saw a strange sight.
+2. Every morning she wakes up early and gets ready for work.
+3. If I knew what he wanted, I would not permit this.
+4. I haven’t heard anything from her in a long time.
+5. The headmaster wants to talk to you.
+6. Jane lives with her parents.
+7. We are visiting Greece next month.
+8. The moon revolves around the earth.
+9. She has written a novel.
+10. All students have handed in their work.
+11. I have been teaching English for twelve years.
+12. The students are rehearsing their dialogues.
