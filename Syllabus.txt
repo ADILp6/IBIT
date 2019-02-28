@@ -22,15 +22,15 @@ will award you the next level for that skill.
 
 
 
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 Grammer and vocabulary
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 This component consists of 25 multiple choice questions.
 The Vocabulary Test consists of 25 questions in 5 sets.
 
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 Reading
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 
 - This component consists of 4 parts containing 25 questions.
 - There is one mark for each correct answer. 
@@ -44,9 +44,9 @@ Instruction:
 - Read 20 minutes daily.
 
 
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 Writing
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 - This test consists of 4 different tasks.
 - A maximum of 24 marks can be earned in total.
 - The time allowed is 50 minutes.
@@ -68,9 +68,9 @@ amount. Write an email to a close friend explaining why you’re unhappy and nex
 email to the tourist company explaining why you’re are not satisfied with their decision.
 
 
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 3. My plan to study
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
  - First of all no syllabus. Forget about your academic study. 
  - Internationally recognized exam like GRE, IELTS has no conclusive syllabus.APTIS is alike IELTS.  
  - Aptis is an innovative English proficiency test for adults.
@@ -82,9 +82,9 @@ email to the tourist company explaining why you’re are not satisfied with thei
  Can I write well without having strong understanding in grammer ?
  : No
 
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 Class Design
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 I will give lecture on grammar everyday as it is core part of APTIS test.
 	1. Grammer
 Duration: 40-60 mins 
@@ -117,17 +117,17 @@ I will cover one topics from vocabulary section
 
 		http://www.uefap.com/writingforapurpose/vocabulary/wordlists/index.htm
 
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 How to improve vocabulary
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 1. By writing on this topic.
 2. By reading on the following topic.
 3. By speaking on this topic.
 4. By Listening on this topic.
 
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 Output of these kinds of writing
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 
 1. You will able to enrich your vocabulary.
 2. Free 
@@ -199,9 +199,9 @@ Benefits of Linking Phrase
 1. Undoubtly, You will get bette score then other who don't use.
 2. You can express yourself precisely.
 
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 Factors to get better score in Writing
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 1. Cohesion (Forming idea as a whole)
 2. Linking Phrase
 3. Use phrasal verb in proper context.
@@ -209,23 +209,23 @@ Factors to get better score in Writing
 
 
 
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 Why I assign Home work Like Free Hand Writing
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 Benefits of Free Hand Writing
 - Help to organize your thinking
 - Improve writings
 - Help to enrich vocabulary. (This is the only way to imrpove your vocabulary)
 - You can try to memorize. Nowdays, It is proven it is fuitle effort.
  
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 4. Demo APTIS Test
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 http://www.britishcouncil.org/exams/aptis/try-aptis
 
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 5. Exam evaluation process
-----------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————-
 
 
 Grading System Descriptors – Writing
@@ -286,9 +286,6 @@ c) Puzzling
 d) long
 e) new
 
-3. 
-
-
 
 
 
@@ -309,24 +306,17 @@ Make sentence from the following words
 
 
 
-
-
-
-
-
-
-
------------------------------------------------------------------------
+———————————————————————————————————————————————————————————————————————
 Sentence Structure
------------------------------------------------------------------------
+———————————————————————————————————————————————————————————————————————
 I am a student.
 I am interested to learn English.
 
 
 
------------------------------------------------------------------------
+———————————————————————————————————————————————————————————————————————
 About me
------------------------------------------------------------------------
+———————————————————————————————————————————————————————————————————————
 
 My name is Rahim Ahmed. 
 I am from Dhaka. 
@@ -346,9 +336,9 @@ And my mother is a housewife.
 
 
 
------------------------------------------------------------------------
+———————————————————————————————————————————————————————————————————————
 Goal
------------------------------------------------------------------------
+———————————————————————————————————————————————————————————————————————
 1. Remember this is a 2D-3D Animation course. 
 2. Secured B2 in APTIS test
 3. To get B2 you have to know 
@@ -360,9 +350,9 @@ This will cover ultimately your grammer section.
 
 
 
------------------------------------------------------------------------
+———————————————————————————————————————————————————————————————————————
 Formal Letter
------------------------------------------------------------------------
+———————————————————————————————————————————————————————————————————————
 
 
 Formal	
@@ -371,38 +361,6 @@ Formal
 - An email to your manager
 - A complaint to a shop
 - An email from one company to another company
-
-Dear Mr Piper,
-Hope this message finds you fine.
-Hope you are doing well.
-Greetings !
-I am writing this letter to let you inform that .................
-
-
-
-
-
-
-I am writing to thank you for all your help.
-I look forward to seeing you next week.
-
-
-With best wishes,
-John Smith
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Informal
@@ -423,41 +381,6 @@ John
 
 
 
-Phrases for starting and finishing
-Here are some phrases which we use for starting and finishing emails. We use these in formal and informal emails:
------------------------------------------------------------------------
-Starting phrases	
------------------------------------------------------------------------
-Dear Tim,
-Good morning Tim,
-
------------------------------------------------------------------------
-Ending phrases	Regards
------------------------------------------------------------------------
-With best wishes,
-With many thanks and best wishes,
-
-
-Ending phrases	Yours sincerely,
-Yours faithfully,
-Yours truly,
-
-
------------------------------------------------------------------------
-Informal
------------------------------------------------------------------------
-Hi Tim,
-Hi there Tim,
-Morning/Afternoon/Evening Tim,
-Hello again Tim,
-
-
-Rgds,
-Cheers,
-Bye for now,
-See you soon,
------------------------------------------------------------------------
-
 
 
 Sub:
@@ -466,84 +389,14 @@ Sub:
 I beg to state that I was absent on 18 December 2018 because I had a pain in my head.
 I beg to state that I was absent on 18 December 2018 because I was ill.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 This is to inform you that I was absent on last 16 November, 2018 due to some urgent official formalities in BRTA  for my personal driving license.
-
-
-
-
-
-
-
-
-
 Prior taking leave I had informed this to Mr. Rahim and got verbal consent.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Before that I called to my class teacher and he told me ok.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Sir, it will be nice if you please consider this absence & oblige me thereby. Thanks in advance for kind consideration.
 
-
-
-
 Therefore I request you to grant my leave of absence and oblige thereby.  
-
-
-
-
-
-
-
-
 
 
 I am writing to	
@@ -554,47 +407,3 @@ inform you that my new address is …
 complain about your customer service. 
 say thank you very much for all your hard work. 
 apply for the job as Teacher of Maths at your school.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
