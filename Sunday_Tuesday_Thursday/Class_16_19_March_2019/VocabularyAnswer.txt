@@ -1,0 +1,74 @@
+KEY: 
+1-a, 
+2-c, 
+3-b, 
+4-a, 
+5-b, 
+6-a, 
+7-e; 
+8-b, 
+9-d, 
+10-a, 
+11-c,
+12-d, 
+13-b, 
+14-d, 
+15-b, 
+16-e, 
+17-a, 
+18-b, 
+19-c, 
+20-a,
+21-c, 
+22-d, 
+23-a, 
+24-d,
+25-a,
+26-b,
+27-d,
+28-d,
+29-e,
+30-b, 
+31-b, 
+32-d, 
+33-c,
+34-a,
+35-b,
+36-c,
+37-d,
+38-e,
+39-b, 
+40-d, 
+41-c, 
+42-c,
+43-c,
+44-b,
+45-b,
+46-c,
+47-a,
+48-b, 
+49-c, 
+50-e, 
+51-c,
+52-b,
+53-c,
+54-b,
+55-d,
+56-c,
+57-a,
+58-d,
+59-b,
+60-d
+
+Your score (one point for each correct choice):
+The Meaning of Your Score:
+00-11:  below average
+12-35:  average
+36-48:  above average
+49-54:  excellent
+55-60:  superior
+
+
+
+
+
